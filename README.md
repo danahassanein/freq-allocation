@@ -20,5 +20,10 @@ In a GSM network every antenna can have multiple frequency channels, which can r
 - Adjacent-channel interference  
   
 To minimise the interference, this project proposes an algorithm.
+The simulator assigns the frequencies to the antennas provided as inputs to the simulator while considering the interferences.
+
+installation: 
+
+	npm install freq-distrib-based-on-leaflet
 
 ### [Click here](https://docs.google.com/presentation/d/1qrvSFSNqZoSWye2nKAoFanSKfqCxTaL18b5eojbGREo/edit#slide=id.g35f391192_00) to view our presentation for more info
